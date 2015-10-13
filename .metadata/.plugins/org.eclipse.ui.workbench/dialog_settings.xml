@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="1000" key="dialogWidth"/>
+		<item value="563" key="dialogHeight"/>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.perspectives"/>
+		</list>
+		<list key="textArray">
+			<item value="logc"/>
+			<item value="log"/>
+			<item value="dd"/>
+		</list>
+		<list key="orderedElements">
+			<item value="com.android.ide.eclipse.ddms.views.LogCatView"/>
+			<item value="com.android.ide.eclipse.ddms.Perspective"/>
+		</list>
+		<list key="textEntries">
+			<item value="2"/>
+			<item value="1"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="com.android.ide.eclipse.adt.project.ImportProjectWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="com.android.ide.eclipse.wizards.category"/>
+		</list>
+	</section>
+</section>
